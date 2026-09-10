@@ -245,3 +245,6 @@ This repository serves as the official landing page for Surfshark. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Surfshark today!**
+
+---
+**Last updated:** 2026-09-10 12:27:00 UTC
