@@ -247,4 +247,4 @@ This repository serves as the official landing page for Surfshark. The software 
 **Get the most recent version of Surfshark today!**
 
 ---
-**Last updated:** 2026-09-28 22:19:13 UTC
+**Last updated:** 2026-09-29 02:22:39 UTC
